@@ -64,11 +64,7 @@ npx eslint .
 
 ## Author
 
-👤 **Justice Bajeri**
-
-- GitHub: [@strangeal](https://github.com/Strangeal)
-- Twitter: [@str_angeal](https://twitter.com/Str_angeal)
-- LinkedIn: [Justice Bajeri](https://www.linkedin.com/in/justice-bajeri-0b7211243/)
+👤 **Isiteketo Mutau**
 
  **Author**
  
