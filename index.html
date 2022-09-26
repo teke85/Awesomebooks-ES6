@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>books</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <a href="#list" id="heading" class="nav-brand gradient-style">All awesome books</a>
+        <div class="links">
+          <ul class="nav-menu">
+            <li class="nav-item">
+              <a id="link" class="nav-link" href="#list">List</a>|
+            </li>
+            <li class="nav-item">
+              <a id="add-link" class="nav-link" href="#add-new">Add New</a>|
+            </li>
+            <li class="nav-item">
+              <a id="contact-link" class="nav-link" href="#contact-list">Contact</a>|
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+    <div class="date">Date</div>
+    <br />
+    <section class="container">
+      <h1 id="heading-h1" class="heading gradient-style">All awesome books</h1>
+      <!-- Booklist data -->
+      <div id="book-list"></div>
+      <div class="form-wrapper" id="form-wrapper">
+        <!-- Input fields -->
+        <form id="form-container">
+          <h2 class="input-heading gradient-style">Add a new book</h2>
+          <div class="form-group">
+            <input type="text" id="title" placeholder="Title" required />
+          </div>
+          <div class="form-group">
+            <input type="text" id="author" placeholder="Author" required />
+          </div>
+          <div class="form-group add-btn">
+            <button type="submit" id="submit" class="btn gradient-style">Add</button>
+          </div>
+        </form>
+      </div>
+    </section>
+    <div class="contact container" id="contact">
+      <h2 class="contact-heading gradient-style">Contact Information</h2>
+      <p class="contact-paragraph">
+        Do you have any questions or you just want to say "Hello"? You can reach
+        out to us!
+      </p>
+      <ul class="contact-items">
+        <li>Our e-mail: mail@mail.com</li>
+        <li>Our phone number: 00456789654</li>
+        <li>Our address: Streetname 22, 84503 City, Country</li>
+      </ul>
+    </div>
+  </main>
+    <footer>
+      <h3>Copyright @ Awesome Books store</h3>
+    </footer>
+    <script src="main.js"></script>
+  </body>
+</html>
