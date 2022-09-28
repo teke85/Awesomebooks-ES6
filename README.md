@@ -1,10 +1,10 @@
-# shin_capstone
+# Awesome Books app
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Microverse Aesome books Project
 
-> **Aswesome books is a Javascript project in module 2 week 1 in the full stack microver software development course*
+> **This Project is based on the Awesome Books Projects and we are required to restructure the code*
 
 
 ## Built With
@@ -12,10 +12,11 @@
 - html
 - css
 - Javascript
+- Ecma Script 6
 
 ## Live Demo
 
-[**See Project 🚀**](https://strangeal.github.io/Awesome-books/)
+N/A
 
 ## Get Started
 
@@ -64,11 +65,8 @@ npx eslint .
 
 ## Author
 
-👤 **Isiteketo Mutau**
+👤 **Teke85**
 
- **Author**
- 
-:bust_in_silhouette:
 - GitHub: [@teke85](https://github.com/teke85)
 - Twitter: [@muttau](https://twitter.com/muttau)
 - LinkedIn: [isiteketo mutau](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
