@@ -1,4 +1,4 @@
-# shin_capstone
+# Awesome Books app
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
