@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse Aesome books Project
+# Microverse Awesome books Project
 
 > **This Project is based on the Awesome Books Projects and we are required to restructure the code*
 
